@@ -1,7 +1,19 @@
 # MultLinks
-Pronjeto para ultilizar como cartão de visita no Instagram
-falta arrumar alguns bug e personalização
+cartão de visita
+
+<hr>
 
 link para site[MultLinks](https://eversondias.github.io/MultLinks/)
 
-![home](public/imgHome.png)
+<hr>
+
+![imagen do Desktop](public/imgDesk.jpg)
+
+<hr>
+
+![imagen do celular](public/imgDesk.jpg)
+
+<hr>
+
+![video do Desktop](public/video.gif)
+
