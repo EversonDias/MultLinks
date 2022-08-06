@@ -11,7 +11,7 @@ link para site[MultLinks](https://eversondias.github.io/MultLinks/)
 
 <hr>
 
-![imagen do celular](public/imgDesk.jpg)
+![imagen do celular](public/imgCelular.jpg)
 
 <hr>
 
