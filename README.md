@@ -23,8 +23,4 @@ link para site[MultLinks](https://eversondias.github.io/MultLinks/)
 
 <hr>
 
-![test velocidade](public/printDesk.png)
-
-<hr>
-
-![test de Velocidade celular](public/printCelular.png)
+![test velocidade](public/testDeVelocidade.gif)
