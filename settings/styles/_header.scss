@@ -1,0 +1,26 @@
+@import 'tools';
+
+body {
+    background: url('../imagens/wallpaper.webp') no-repeat bottom fixed;
+    background-color: $cor3;
+
+
+    header {
+        text-align: center;
+
+        img {
+            margin-top: 5%;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            padding: 2px;
+            border: solid 4px $cor1;
+        }
+
+        h1 {
+            padding-bottom: 20px;
+            color: $cor1;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.452);
+        }
+    }
+}

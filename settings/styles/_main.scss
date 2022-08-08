@@ -1,0 +1,26 @@
+@import 'tools';
+
+ul {
+    text-align: center;
+    list-style: none;
+
+    a {
+        display: inline-block;
+        padding: 10px;
+        width: 200px;
+        margin: 5px;
+        border-radius: 16px;
+        text-decoration: none;
+        color: $cor2;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.61);
+        box-shadow: 2px 2px 4px black;
+        background-color: $cor1;
+        animation: 1s;
+        ;
+    }
+
+    a:active {
+        box-shadow: inset -4px -4px 10px 4px #000000a8;
+        transform: scale(0.97);
+    }
+}
