@@ -51,6 +51,23 @@ footer {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.61);
 }
 
+@media screen and (max-height: 600px) {
+  body {
+    min-height: 600px;
+    background-attachment: scroll;
+  }
+}
+@media screen and (max-height: 600px) {
+  body footer {
+    position: relative;
+  }
+}
+@media screen and (max-height: 600px) {
+  body main {
+    height: 100vh;
+  }
+}
+
 * {
   margin: 0px;
   padding: 0px;
