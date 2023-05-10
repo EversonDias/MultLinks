@@ -60,7 +60,7 @@ npx live-server
 você tera uma resposta parecida com isso
 
 ```bash
-Serving "/home/diasdev/my-projects/MultLinks" at http://127.0.0.1:8080
+Serving "/home/my-user/my-projects/MultLinks" at http://127.0.0.1:8080
 Ready for changes
 ```
 
